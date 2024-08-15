@@ -1,1 +1,1 @@
-# Teaching-AlgorithmDataStructure
+# 【講義】問題解決のためにアルゴリズムとデータ構造
